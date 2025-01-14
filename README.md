@@ -1,2 +1,2 @@
 "Hello Odin!"
-I am going to be the best web designer ever!!
+I am going to be the best web developer ever!!
